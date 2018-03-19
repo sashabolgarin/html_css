@@ -1,15 +1,16 @@
 
 body{
 
-	background: black;
-	width: 20%;
+	background: gray;
+	width: 80%;
 	margin: auto;
-	color: white;
+	color: black;
 }
 
 h1{
 
 	font-size: 30px;
+	font-weight: 800;
 
 }
 
