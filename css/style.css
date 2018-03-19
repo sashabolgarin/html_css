@@ -1,3 +1,16 @@
-body{background: grey};
-h1{font-size: 80px};
+body{
+
+	background: green;
+
+}
+
+h1{
+
+	font-size: 80px;
+
+}
+
+p {
+	font-size:1.6em;
+}
 
